@@ -1,0 +1,126 @@
+
+package com.example;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
+import javax.annotation.Generated;
+import com.fasterxml.jackson.annotation.JsonAnyGetter;
+import com.fasterxml.jackson.annotation.JsonAnySetter;
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonInclude;
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonPropertyOrder;
+
+@JsonInclude(JsonInclude.Include.NON_NULL)
+@Generated("org.jsonschema2pojo")
+@JsonPropertyOrder({
+    "TotalCount",
+    "Page",
+    "PageSize",
+    "List"
+})
+public class Example {
+
+    @JsonProperty("TotalCount")
+    private Integer TotalCount;
+    @JsonProperty("Page")
+    private Integer Page;
+    @JsonProperty("PageSize")
+    private Integer PageSize;
+    @JsonProperty("List")
+    private java.util.List<com.example.List> List = new ArrayList<com.example.List>();
+    @JsonIgnore
+    private Map<String, Object> additionalProperties = new HashMap<String, Object>();
+
+    /**
+     * 
+     * @return
+     *     The TotalCount
+     */
+    @JsonProperty("TotalCount")
+    public Integer getTotalCount() {
+        return TotalCount;
+    }
+
+    /**
+     * 
+     * @param TotalCount
+     *     The TotalCount
+     */
+    @JsonProperty("TotalCount")
+    public void setTotalCount(Integer TotalCount) {
+        this.TotalCount = TotalCount;
+    }
+
+    /**
+     * 
+     * @return
+     *     The Page
+     */
+    @JsonProperty("Page")
+    public Integer getPage() {
+        return Page;
+    }
+
+    /**
+     * 
+     * @param Page
+     *     The Page
+     */
+    @JsonProperty("Page")
+    public void setPage(Integer Page) {
+        this.Page = Page;
+    }
+
+    /**
+     * 
+     * @return
+     *     The PageSize
+     */
+    @JsonProperty("PageSize")
+    public Integer getPageSize() {
+        return PageSize;
+    }
+
+    /**
+     * 
+     * @param PageSize
+     *     The PageSize
+     */
+    @JsonProperty("PageSize")
+    public void setPageSize(Integer PageSize) {
+        this.PageSize = PageSize;
+    }
+
+    /**
+     * 
+     * @return
+     *     The List
+     */
+    @JsonProperty("List")
+    public java.util.List<com.example.List> getList() {
+        return List;
+    }
+
+    /**
+     * 
+     * @param List
+     *     The List
+     */
+    @JsonProperty("List")
+    public void setList(java.util.List<com.example.List> List) {
+        this.List = List;
+    }
+
+    @JsonAnyGetter
+    public Map<String, Object> getAdditionalProperties() {
+        return this.additionalProperties;
+    }
+
+    @JsonAnySetter
+    public void setAdditionalProperty(String name, Object value) {
+        this.additionalProperties.put(name, value);
+    }
+
+}

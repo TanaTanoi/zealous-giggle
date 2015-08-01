@@ -1,0 +1,148 @@
+
+package live.trademe;
+
+import java.util.HashMap;
+import java.util.Map;
+import javax.annotation.Generated;
+import com.fasterxml.jackson.annotation.JsonAnyGetter;
+import com.fasterxml.jackson.annotation.JsonAnySetter;
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonInclude;
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonPropertyOrder;
+
+@JsonInclude(JsonInclude.Include.NON_NULL)
+@Generated("org.jsonschema2pojo")
+@JsonPropertyOrder({
+    "Latitude",
+    "Longitude",
+    "Northing",
+    "Easting",
+    "Accuracy"
+})
+public class GeographicLocation {
+
+    @JsonProperty("Latitude")
+    private Double Latitude;
+    @JsonProperty("Longitude")
+    private Double Longitude;
+    @JsonProperty("Northing")
+    private Integer Northing;
+    @JsonProperty("Easting")
+    private Integer Easting;
+    @JsonProperty("Accuracy")
+    private Integer Accuracy;
+    @JsonIgnore
+    private Map<String, Object> additionalProperties = new HashMap<String, Object>();
+
+    /**
+     * 
+     * @return
+     *     The Latitude
+     */
+    @JsonProperty("Latitude")
+    public Double getLatitude() {
+        return Latitude;
+    }
+
+    /**
+     * 
+     * @param Latitude
+     *     The Latitude
+     */
+    @JsonProperty("Latitude")
+    public void setLatitude(Double Latitude) {
+        this.Latitude = Latitude;
+    }
+
+    /**
+     * 
+     * @return
+     *     The Longitude
+     */
+    @JsonProperty("Longitude")
+    public Double getLongitude() {
+        return Longitude;
+    }
+
+    /**
+     * 
+     * @param Longitude
+     *     The Longitude
+     */
+    @JsonProperty("Longitude")
+    public void setLongitude(Double Longitude) {
+        this.Longitude = Longitude;
+    }
+
+    /**
+     * 
+     * @return
+     *     The Northing
+     */
+    @JsonProperty("Northing")
+    public Integer getNorthing() {
+        return Northing;
+    }
+
+    /**
+     * 
+     * @param Northing
+     *     The Northing
+     */
+    @JsonProperty("Northing")
+    public void setNorthing(Integer Northing) {
+        this.Northing = Northing;
+    }
+
+    /**
+     * 
+     * @return
+     *     The Easting
+     */
+    @JsonProperty("Easting")
+    public Integer getEasting() {
+        return Easting;
+    }
+
+    /**
+     * 
+     * @param Easting
+     *     The Easting
+     */
+    @JsonProperty("Easting")
+    public void setEasting(Integer Easting) {
+        this.Easting = Easting;
+    }
+
+    /**
+     * 
+     * @return
+     *     The Accuracy
+     */
+    @JsonProperty("Accuracy")
+    public Integer getAccuracy() {
+        return Accuracy;
+    }
+
+    /**
+     * 
+     * @param Accuracy
+     *     The Accuracy
+     */
+    @JsonProperty("Accuracy")
+    public void setAccuracy(Integer Accuracy) {
+        this.Accuracy = Accuracy;
+    }
+
+    @JsonAnyGetter
+    public Map<String, Object> getAdditionalProperties() {
+        return this.additionalProperties;
+    }
+
+    @JsonAnySetter
+    public void setAdditionalProperty(String name, Object value) {
+        this.additionalProperties.put(name, value);
+    }
+
+}

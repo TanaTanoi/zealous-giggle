@@ -1,0 +1,17 @@
+import java.net.*;
+
+
+public class TMRequest {
+
+	private static final String LATEST_LISTINGS_STR =
+			"https://api.trademe.co.nz/v1/Listings/Latest.json";
+	private HttpURLConnection connection = null;
+	
+	private static  live.trademe.List requestListings(String type){
+		
+		
+		return null;
+	}
+	
+	
+}

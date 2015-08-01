@@ -1,0 +1,838 @@
+
+package com.example;
+
+import java.util.HashMap;
+import java.util.Map;
+import javax.annotation.Generated;
+import com.fasterxml.jackson.annotation.JsonAnyGetter;
+import com.fasterxml.jackson.annotation.JsonAnySetter;
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonInclude;
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonPropertyOrder;
+
+@JsonInclude(JsonInclude.Include.NON_NULL)
+@Generated("org.jsonschema2pojo")
+@JsonPropertyOrder({
+    "ListingId",
+    "Title",
+    "Category",
+    "StartPrice",
+    "BuyNowPrice",
+    "StartDate",
+    "EndDate",
+    "IsFeatured",
+    "HasGallery",
+    "IsBold",
+    "IsHighlighted",
+    "HasHomePageFeature",
+    "MaxBidAmount",
+    "AsAt",
+    "CategoryPath",
+    "PictureHref",
+    "HasPayNow",
+    "IsNew",
+    "Region",
+    "Suburb",
+    "BidCount",
+    "IsReserveMet",
+    "HasReserve",
+    "HasBuyNow",
+    "NoteDate",
+    "ReserveState",
+    "IsClassified",
+    "Subtitle",
+    "IsBuyNowOnly",
+    "RemainingGalleryPlusRelists",
+    "GeographicLocation",
+    "PriceDisplay",
+    "TotalReviewCount",
+    "PositiveReviewCount",
+    "HasFreeShipping"
+})
+public class List {
+
+    @JsonProperty("ListingId")
+    private Integer ListingId;
+    @JsonProperty("Title")
+    private String Title;
+    @JsonProperty("Category")
+    private String Category;
+    @JsonProperty("StartPrice")
+    private Double StartPrice;
+    @JsonProperty("BuyNowPrice")
+    private Double BuyNowPrice;
+    @JsonProperty("StartDate")
+    private String StartDate;
+    @JsonProperty("EndDate")
+    private String EndDate;
+    @JsonProperty("IsFeatured")
+    private Boolean IsFeatured;
+    @JsonProperty("HasGallery")
+    private Boolean HasGallery;
+    @JsonProperty("IsBold")
+    private Boolean IsBold;
+    @JsonProperty("IsHighlighted")
+    private Boolean IsHighlighted;
+    @JsonProperty("HasHomePageFeature")
+    private Boolean HasHomePageFeature;
+    @JsonProperty("MaxBidAmount")
+    private Double MaxBidAmount;
+    @JsonProperty("AsAt")
+    private String AsAt;
+    @JsonProperty("CategoryPath")
+    private String CategoryPath;
+    @JsonProperty("PictureHref")
+    private String PictureHref;
+    @JsonProperty("HasPayNow")
+    private Boolean HasPayNow;
+    @JsonProperty("IsNew")
+    private Boolean IsNew;
+    @JsonProperty("Region")
+    private String Region;
+    @JsonProperty("Suburb")
+    private String Suburb;
+    @JsonProperty("BidCount")
+    private Integer BidCount;
+    @JsonProperty("IsReserveMet")
+    private Boolean IsReserveMet;
+    @JsonProperty("HasReserve")
+    private Boolean HasReserve;
+    @JsonProperty("HasBuyNow")
+    private Boolean HasBuyNow;
+    @JsonProperty("NoteDate")
+    private String NoteDate;
+    @JsonProperty("ReserveState")
+    private Integer ReserveState;
+    @JsonProperty("IsClassified")
+    private Boolean IsClassified;
+    @JsonProperty("Subtitle")
+    private String Subtitle;
+    @JsonProperty("IsBuyNowOnly")
+    private Boolean IsBuyNowOnly;
+    @JsonProperty("RemainingGalleryPlusRelists")
+    private Integer RemainingGalleryPlusRelists;
+    @JsonProperty("GeographicLocation")
+    private com.example.GeographicLocation GeographicLocation;
+    @JsonProperty("PriceDisplay")
+    private String PriceDisplay;
+    @JsonProperty("TotalReviewCount")
+    private Integer TotalReviewCount;
+    @JsonProperty("PositiveReviewCount")
+    private Integer PositiveReviewCount;
+    @JsonProperty("HasFreeShipping")
+    private Boolean HasFreeShipping;
+    @JsonIgnore
+    private Map<String, Object> additionalProperties = new HashMap<String, Object>();
+
+    /**
+     * 
+     * @return
+     *     The ListingId
+     */
+    @JsonProperty("ListingId")
+    public Integer getListingId() {
+        return ListingId;
+    }
+
+    /**
+     * 
+     * @param ListingId
+     *     The ListingId
+     */
+    @JsonProperty("ListingId")
+    public void setListingId(Integer ListingId) {
+        this.ListingId = ListingId;
+    }
+
+    /**
+     * 
+     * @return
+     *     The Title
+     */
+    @JsonProperty("Title")
+    public String getTitle() {
+        return Title;
+    }
+
+    /**
+     * 
+     * @param Title
+     *     The Title
+     */
+    @JsonProperty("Title")
+    public void setTitle(String Title) {
+        this.Title = Title;
+    }
+
+    /**
+     * 
+     * @return
+     *     The Category
+     */
+    @JsonProperty("Category")
+    public String getCategory() {
+        return Category;
+    }
+
+    /**
+     * 
+     * @param Category
+     *     The Category
+     */
+    @JsonProperty("Category")
+    public void setCategory(String Category) {
+        this.Category = Category;
+    }
+
+    /**
+     * 
+     * @return
+     *     The StartPrice
+     */
+    @JsonProperty("StartPrice")
+    public Double getStartPrice() {
+        return StartPrice;
+    }
+
+    /**
+     * 
+     * @param StartPrice
+     *     The StartPrice
+     */
+    @JsonProperty("StartPrice")
+    public void setStartPrice(Double StartPrice) {
+        this.StartPrice = StartPrice;
+    }
+
+    /**
+     * 
+     * @return
+     *     The BuyNowPrice
+     */
+    @JsonProperty("BuyNowPrice")
+    public Double getBuyNowPrice() {
+        return BuyNowPrice;
+    }
+
+    /**
+     * 
+     * @param BuyNowPrice
+     *     The BuyNowPrice
+     */
+    @JsonProperty("BuyNowPrice")
+    public void setBuyNowPrice(Double BuyNowPrice) {
+        this.BuyNowPrice = BuyNowPrice;
+    }
+
+    /**
+     * 
+     * @return
+     *     The StartDate
+     */
+    @JsonProperty("StartDate")
+    public String getStartDate() {
+        return StartDate;
+    }
+
+    /**
+     * 
+     * @param StartDate
+     *     The StartDate
+     */
+    @JsonProperty("StartDate")
+    public void setStartDate(String StartDate) {
+        this.StartDate = StartDate;
+    }
+
+    /**
+     * 
+     * @return
+     *     The EndDate
+     */
+    @JsonProperty("EndDate")
+    public String getEndDate() {
+        return EndDate;
+    }
+
+    /**
+     * 
+     * @param EndDate
+     *     The EndDate
+     */
+    @JsonProperty("EndDate")
+    public void setEndDate(String EndDate) {
+        this.EndDate = EndDate;
+    }
+
+    /**
+     * 
+     * @return
+     *     The IsFeatured
+     */
+    @JsonProperty("IsFeatured")
+    public Boolean getIsFeatured() {
+        return IsFeatured;
+    }
+
+    /**
+     * 
+     * @param IsFeatured
+     *     The IsFeatured
+     */
+    @JsonProperty("IsFeatured")
+    public void setIsFeatured(Boolean IsFeatured) {
+        this.IsFeatured = IsFeatured;
+    }
+
+    /**
+     * 
+     * @return
+     *     The HasGallery
+     */
+    @JsonProperty("HasGallery")
+    public Boolean getHasGallery() {
+        return HasGallery;
+    }
+
+    /**
+     * 
+     * @param HasGallery
+     *     The HasGallery
+     */
+    @JsonProperty("HasGallery")
+    public void setHasGallery(Boolean HasGallery) {
+        this.HasGallery = HasGallery;
+    }
+
+    /**
+     * 
+     * @return
+     *     The IsBold
+     */
+    @JsonProperty("IsBold")
+    public Boolean getIsBold() {
+        return IsBold;
+    }
+
+    /**
+     * 
+     * @param IsBold
+     *     The IsBold
+     */
+    @JsonProperty("IsBold")
+    public void setIsBold(Boolean IsBold) {
+        this.IsBold = IsBold;
+    }
+
+    /**
+     * 
+     * @return
+     *     The IsHighlighted
+     */
+    @JsonProperty("IsHighlighted")
+    public Boolean getIsHighlighted() {
+        return IsHighlighted;
+    }
+
+    /**
+     * 
+     * @param IsHighlighted
+     *     The IsHighlighted
+     */
+    @JsonProperty("IsHighlighted")
+    public void setIsHighlighted(Boolean IsHighlighted) {
+        this.IsHighlighted = IsHighlighted;
+    }
+
+    /**
+     * 
+     * @return
+     *     The HasHomePageFeature
+     */
+    @JsonProperty("HasHomePageFeature")
+    public Boolean getHasHomePageFeature() {
+        return HasHomePageFeature;
+    }
+
+    /**
+     * 
+     * @param HasHomePageFeature
+     *     The HasHomePageFeature
+     */
+    @JsonProperty("HasHomePageFeature")
+    public void setHasHomePageFeature(Boolean HasHomePageFeature) {
+        this.HasHomePageFeature = HasHomePageFeature;
+    }
+
+    /**
+     * 
+     * @return
+     *     The MaxBidAmount
+     */
+    @JsonProperty("MaxBidAmount")
+    public Double getMaxBidAmount() {
+        return MaxBidAmount;
+    }
+
+    /**
+     * 
+     * @param MaxBidAmount
+     *     The MaxBidAmount
+     */
+    @JsonProperty("MaxBidAmount")
+    public void setMaxBidAmount(Double MaxBidAmount) {
+        this.MaxBidAmount = MaxBidAmount;
+    }
+
+    /**
+     * 
+     * @return
+     *     The AsAt
+     */
+    @JsonProperty("AsAt")
+    public String getAsAt() {
+        return AsAt;
+    }
+
+    /**
+     * 
+     * @param AsAt
+     *     The AsAt
+     */
+    @JsonProperty("AsAt")
+    public void setAsAt(String AsAt) {
+        this.AsAt = AsAt;
+    }
+
+    /**
+     * 
+     * @return
+     *     The CategoryPath
+     */
+    @JsonProperty("CategoryPath")
+    public String getCategoryPath() {
+        return CategoryPath;
+    }
+
+    /**
+     * 
+     * @param CategoryPath
+     *     The CategoryPath
+     */
+    @JsonProperty("CategoryPath")
+    public void setCategoryPath(String CategoryPath) {
+        this.CategoryPath = CategoryPath;
+    }
+
+    /**
+     * 
+     * @return
+     *     The PictureHref
+     */
+    @JsonProperty("PictureHref")
+    public String getPictureHref() {
+        return PictureHref;
+    }
+
+    /**
+     * 
+     * @param PictureHref
+     *     The PictureHref
+     */
+    @JsonProperty("PictureHref")
+    public void setPictureHref(String PictureHref) {
+        this.PictureHref = PictureHref;
+    }
+
+    /**
+     * 
+     * @return
+     *     The HasPayNow
+     */
+    @JsonProperty("HasPayNow")
+    public Boolean getHasPayNow() {
+        return HasPayNow;
+    }
+
+    /**
+     * 
+     * @param HasPayNow
+     *     The HasPayNow
+     */
+    @JsonProperty("HasPayNow")
+    public void setHasPayNow(Boolean HasPayNow) {
+        this.HasPayNow = HasPayNow;
+    }
+
+    /**
+     * 
+     * @return
+     *     The IsNew
+     */
+    @JsonProperty("IsNew")
+    public Boolean getIsNew() {
+        return IsNew;
+    }
+
+    /**
+     * 
+     * @param IsNew
+     *     The IsNew
+     */
+    @JsonProperty("IsNew")
+    public void setIsNew(Boolean IsNew) {
+        this.IsNew = IsNew;
+    }
+
+    /**
+     * 
+     * @return
+     *     The Region
+     */
+    @JsonProperty("Region")
+    public String getRegion() {
+        return Region;
+    }
+
+    /**
+     * 
+     * @param Region
+     *     The Region
+     */
+    @JsonProperty("Region")
+    public void setRegion(String Region) {
+        this.Region = Region;
+    }
+
+    /**
+     * 
+     * @return
+     *     The Suburb
+     */
+    @JsonProperty("Suburb")
+    public String getSuburb() {
+        return Suburb;
+    }
+
+    /**
+     * 
+     * @param Suburb
+     *     The Suburb
+     */
+    @JsonProperty("Suburb")
+    public void setSuburb(String Suburb) {
+        this.Suburb = Suburb;
+    }
+
+    /**
+     * 
+     * @return
+     *     The BidCount
+     */
+    @JsonProperty("BidCount")
+    public Integer getBidCount() {
+        return BidCount;
+    }
+
+    /**
+     * 
+     * @param BidCount
+     *     The BidCount
+     */
+    @JsonProperty("BidCount")
+    public void setBidCount(Integer BidCount) {
+        this.BidCount = BidCount;
+    }
+
+    /**
+     * 
+     * @return
+     *     The IsReserveMet
+     */
+    @JsonProperty("IsReserveMet")
+    public Boolean getIsReserveMet() {
+        return IsReserveMet;
+    }
+
+    /**
+     * 
+     * @param IsReserveMet
+     *     The IsReserveMet
+     */
+    @JsonProperty("IsReserveMet")
+    public void setIsReserveMet(Boolean IsReserveMet) {
+        this.IsReserveMet = IsReserveMet;
+    }
+
+    /**
+     * 
+     * @return
+     *     The HasReserve
+     */
+    @JsonProperty("HasReserve")
+    public Boolean getHasReserve() {
+        return HasReserve;
+    }
+
+    /**
+     * 
+     * @param HasReserve
+     *     The HasReserve
+     */
+    @JsonProperty("HasReserve")
+    public void setHasReserve(Boolean HasReserve) {
+        this.HasReserve = HasReserve;
+    }
+
+    /**
+     * 
+     * @return
+     *     The HasBuyNow
+     */
+    @JsonProperty("HasBuyNow")
+    public Boolean getHasBuyNow() {
+        return HasBuyNow;
+    }
+
+    /**
+     * 
+     * @param HasBuyNow
+     *     The HasBuyNow
+     */
+    @JsonProperty("HasBuyNow")
+    public void setHasBuyNow(Boolean HasBuyNow) {
+        this.HasBuyNow = HasBuyNow;
+    }
+
+    /**
+     * 
+     * @return
+     *     The NoteDate
+     */
+    @JsonProperty("NoteDate")
+    public String getNoteDate() {
+        return NoteDate;
+    }
+
+    /**
+     * 
+     * @param NoteDate
+     *     The NoteDate
+     */
+    @JsonProperty("NoteDate")
+    public void setNoteDate(String NoteDate) {
+        this.NoteDate = NoteDate;
+    }
+
+    /**
+     * 
+     * @return
+     *     The ReserveState
+     */
+    @JsonProperty("ReserveState")
+    public Integer getReserveState() {
+        return ReserveState;
+    }
+
+    /**
+     * 
+     * @param ReserveState
+     *     The ReserveState
+     */
+    @JsonProperty("ReserveState")
+    public void setReserveState(Integer ReserveState) {
+        this.ReserveState = ReserveState;
+    }
+
+    /**
+     * 
+     * @return
+     *     The IsClassified
+     */
+    @JsonProperty("IsClassified")
+    public Boolean getIsClassified() {
+        return IsClassified;
+    }
+
+    /**
+     * 
+     * @param IsClassified
+     *     The IsClassified
+     */
+    @JsonProperty("IsClassified")
+    public void setIsClassified(Boolean IsClassified) {
+        this.IsClassified = IsClassified;
+    }
+
+    /**
+     * 
+     * @return
+     *     The Subtitle
+     */
+    @JsonProperty("Subtitle")
+    public String getSubtitle() {
+        return Subtitle;
+    }
+
+    /**
+     * 
+     * @param Subtitle
+     *     The Subtitle
+     */
+    @JsonProperty("Subtitle")
+    public void setSubtitle(String Subtitle) {
+        this.Subtitle = Subtitle;
+    }
+
+    /**
+     * 
+     * @return
+     *     The IsBuyNowOnly
+     */
+    @JsonProperty("IsBuyNowOnly")
+    public Boolean getIsBuyNowOnly() {
+        return IsBuyNowOnly;
+    }
+
+    /**
+     * 
+     * @param IsBuyNowOnly
+     *     The IsBuyNowOnly
+     */
+    @JsonProperty("IsBuyNowOnly")
+    public void setIsBuyNowOnly(Boolean IsBuyNowOnly) {
+        this.IsBuyNowOnly = IsBuyNowOnly;
+    }
+
+    /**
+     * 
+     * @return
+     *     The RemainingGalleryPlusRelists
+     */
+    @JsonProperty("RemainingGalleryPlusRelists")
+    public Integer getRemainingGalleryPlusRelists() {
+        return RemainingGalleryPlusRelists;
+    }
+
+    /**
+     * 
+     * @param RemainingGalleryPlusRelists
+     *     The RemainingGalleryPlusRelists
+     */
+    @JsonProperty("RemainingGalleryPlusRelists")
+    public void setRemainingGalleryPlusRelists(Integer RemainingGalleryPlusRelists) {
+        this.RemainingGalleryPlusRelists = RemainingGalleryPlusRelists;
+    }
+
+    /**
+     * 
+     * @return
+     *     The GeographicLocation
+     */
+    @JsonProperty("GeographicLocation")
+    public com.example.GeographicLocation getGeographicLocation() {
+        return GeographicLocation;
+    }
+
+    /**
+     * 
+     * @param GeographicLocation
+     *     The GeographicLocation
+     */
+    @JsonProperty("GeographicLocation")
+    public void setGeographicLocation(com.example.GeographicLocation GeographicLocation) {
+        this.GeographicLocation = GeographicLocation;
+    }
+
+    /**
+     * 
+     * @return
+     *     The PriceDisplay
+     */
+    @JsonProperty("PriceDisplay")
+    public String getPriceDisplay() {
+        return PriceDisplay;
+    }
+
+    /**
+     * 
+     * @param PriceDisplay
+     *     The PriceDisplay
+     */
+    @JsonProperty("PriceDisplay")
+    public void setPriceDisplay(String PriceDisplay) {
+        this.PriceDisplay = PriceDisplay;
+    }
+
+    /**
+     * 
+     * @return
+     *     The TotalReviewCount
+     */
+    @JsonProperty("TotalReviewCount")
+    public Integer getTotalReviewCount() {
+        return TotalReviewCount;
+    }
+
+    /**
+     * 
+     * @param TotalReviewCount
+     *     The TotalReviewCount
+     */
+    @JsonProperty("TotalReviewCount")
+    public void setTotalReviewCount(Integer TotalReviewCount) {
+        this.TotalReviewCount = TotalReviewCount;
+    }
+
+    /**
+     * 
+     * @return
+     *     The PositiveReviewCount
+     */
+    @JsonProperty("PositiveReviewCount")
+    public Integer getPositiveReviewCount() {
+        return PositiveReviewCount;
+    }
+
+    /**
+     * 
+     * @param PositiveReviewCount
+     *     The PositiveReviewCount
+     */
+    @JsonProperty("PositiveReviewCount")
+    public void setPositiveReviewCount(Integer PositiveReviewCount) {
+        this.PositiveReviewCount = PositiveReviewCount;
+    }
+
+    /**
+     * 
+     * @return
+     *     The HasFreeShipping
+     */
+    @JsonProperty("HasFreeShipping")
+    public Boolean getHasFreeShipping() {
+        return HasFreeShipping;
+    }
+
+    /**
+     * 
+     * @param HasFreeShipping
+     *     The HasFreeShipping
+     */
+    @JsonProperty("HasFreeShipping")
+    public void setHasFreeShipping(Boolean HasFreeShipping) {
+        this.HasFreeShipping = HasFreeShipping;
+    }
+
+    @JsonAnyGetter
+    public Map<String, Object> getAdditionalProperties() {
+        return this.additionalProperties;
+    }
+
+    @JsonAnySetter
+    public void setAdditionalProperty(String name, Object value) {
+        this.additionalProperties.put(name, value);
+    }
+
+}
