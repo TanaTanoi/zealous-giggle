@@ -730,3 +730,197 @@
 2015-08-01 14:51:58,755 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
 2015-08-01 14:51:58,777 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2015-08-01 14:51:58,793 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 14:54:03,028 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 14:54:03,150 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 14:54:03,158 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 14:54:03,227 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 14:54:30,488 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 14:54:30,554 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 14:54:30,575 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 14:54:30,606 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 14:54:52,418 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 14:54:52,432 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 14:54:52,438 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 14:54:52,452 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 14:55:46,903 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 14:55:47,036 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 14:55:47,072 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 14:55:47,135 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 14:57:51,946 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 14:57:51,964 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 14:57:51,968 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 14:57:52,010 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 15:01:04,338 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:01:04,356 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 15:01:04,378 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:01:04,413 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 15:10:38,823 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: TrademeLive:TrademeLive:0.0.1-SNAPSHOT @ C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\pom.xml.
+2015-08-01 15:10:43,550 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:10:43,561 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 15:10:43,568 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:10:43,592 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 15:10:43,601 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of TrademeLiveServer
+2015-08-01 15:10:43,611 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for TrademeLiveServer
+2015-08-01 15:10:43,624 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:12:55,374 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:12:55,388 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 15:12:55,392 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:12:55,409 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 15:13:05,277 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:13:05,324 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 15:13:05,349 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:13:05,408 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 15:13:15,751 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:13:15,801 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 15:13:15,804 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:13:15,823 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 15:13:35,899 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:13:35,923 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 15:13:35,936 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:13:35,951 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 15:15:13,822 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:15:13,835 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 15:15:13,838 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:15:13,850 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 15:20:14,372 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: TrademeLive:TrademeLive:0.0.1-SNAPSHOT @ C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\pom.xml.
+2015-08-01 15:20:16,256 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.3/gson-2.3.pom
+2015-08-01 15:20:16,449 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.3/gson-2.3.pom
+2015-08-01 15:20:16,664 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
+2015-08-01 15:20:16,847 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
+2015-08-01 15:20:17,237 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.3/gson-2.3.jar
+2015-08-01 15:20:18,036 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.3/gson-2.3.jar
+2015-08-01 15:20:21,459 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:20:21,496 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 15:20:21,523 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:20:21,547 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 15:20:21,548 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of TrademeLiveServer
+2015-08-01 15:20:21,560 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for TrademeLiveServer
+2015-08-01 15:20:21,574 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:20:24,753 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:20:24,763 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 15:20:24,776 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:20:24,787 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 15:33:11,169 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:33:11,187 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 15:33:11,208 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:33:11,229 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 15:33:17,346 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:33:17,422 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 15:33:17,443 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:33:17,476 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 15:33:25,245 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:33:25,266 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 15:33:25,283 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:33:25,305 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 15:34:38,180 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:34:38,199 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 15:34:38,237 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:34:38,267 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 15:34:45,566 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:34:45,580 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 15:34:45,596 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:34:45,622 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 15:35:50,208 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:35:50,219 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 15:35:50,234 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:35:50,252 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 15:36:25,041 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:36:25,054 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 15:36:25,074 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:36:25,098 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 15:37:06,578 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:37:06,593 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 15:37:06,607 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:37:06,626 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 15:37:11,250 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:37:11,263 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 15:37:11,278 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:37:11,296 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 15:37:20,410 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:37:20,460 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 15:37:20,483 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:37:20,514 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 15:43:08,457 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:43:08,561 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 15:43:08,584 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:43:08,610 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 15:43:29,495 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:43:29,509 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 15:43:29,527 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:43:29,547 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 15:43:41,149 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:43:41,191 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 15:43:41,226 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:43:41,263 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 15:43:53,775 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:43:53,849 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 15:43:53,865 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:43:53,910 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 15:44:37,960 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:44:37,971 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 15:44:37,985 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 15:44:38,003 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 16:13:08,549 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:13:08,561 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 16:13:08,572 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:13:08,590 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 16:13:21,987 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:13:21,999 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 16:13:22,012 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:13:22,030 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 16:13:56,484 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:13:56,516 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 16:13:56,544 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:13:56,575 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 16:14:03,409 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:14:03,439 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 16:14:03,457 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:14:03,492 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 16:16:07,643 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:16:07,658 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 16:16:07,670 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:16:07,694 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 16:20:00,808 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:20:00,821 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 16:20:00,838 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:20:00,862 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 16:20:04,544 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:20:04,554 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 16:20:04,568 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:20:04,590 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 16:20:54,242 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:20:54,255 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 16:20:54,274 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:20:54,304 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 16:21:09,956 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:21:09,966 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 16:21:09,980 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:21:09,998 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 16:21:46,539 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:21:46,554 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 16:21:46,571 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:21:46,599 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 16:25:10,213 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:25:10,228 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 16:25:10,248 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:25:10,279 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 16:25:20,472 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:25:20,486 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 16:25:20,498 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:25:20,519 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 16:25:21,681 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:25:21,694 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 16:25:21,709 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:25:21,733 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 16:25:36,459 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:25:36,472 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 16:25:36,487 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:25:36,512 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 16:37:47,540 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:37:47,563 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 16:37:47,598 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:37:47,662 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources
+2015-08-01 16:38:15,548 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:38:15,564 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\main\resources
+2015-08-01 16:38:15,585 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-01 16:38:15,629 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tana Tanoi\Documents\GitHub\zealous-giggle\TrademeLiveServer\src\test\resources

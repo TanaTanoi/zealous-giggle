@@ -21,6 +21,44 @@
       "Subtitle": "ABC",
       "PriceDisplay": "ABC",
       "HasFreeShipping": false
+    },
+ {
+      "ListingId": 1,
+      "Title": "ABC",
+      "Category": "ABC",
+      "StartPrice": 0.0,
+      "StartDate": "\/Date(946638000000)\/",
+      "EndDate": "\/Date(946638000000)\/",
+      "MaxBidAmount": 0.0,
+      "AsAt": "\/Date(946638000000)\/",
+      "CategoryPath": "ABC",
+      "PictureHref": "ABC",
+      "Region": "ABC",
+      "Suburb": "ABC",
+      "BidCount": 0,
+      "HasBuyNow": false,
+      "Subtitle": "ABC",
+      "PriceDisplay": "ABC",
+      "HasFreeShipping": false
+    },
+ {
+      "ListingId": 2,
+      "Title": "ABC",
+      "Category": "ABC",
+      "StartPrice": 0.0,
+      "StartDate": "\/Date(946638000000)\/",
+      "EndDate": "\/Date(946638000000)\/",
+      "MaxBidAmount": 0.0,
+      "AsAt": "\/Date(946638000000)\/",
+      "CategoryPath": "ABC",
+      "PictureHref": "ABC",
+      "Region": "ABC",
+      "Suburb": "ABC",
+      "BidCount": 0,
+      "HasBuyNow": false,
+      "Subtitle": "ABC",
+      "PriceDisplay": "ABC",
+      "HasFreeShipping": false
     }
   ]
 }
