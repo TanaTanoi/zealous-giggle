@@ -23,6 +23,7 @@
 	}
 	.listing img{
 	box-shadow:0px 0px 20px black;
+	border-radius:25px;
 	}
 
 	</style>
@@ -48,9 +49,6 @@
 
 		var currentID = 0;
 		
-		$("#add").click(function(){
-				//drawOnMap("testImg.jpg", 20, 20);
-		});
 
 		function drawOnMap(imgPath, name, price, id, x, y) {
 
@@ -62,7 +60,7 @@
 			divStyle.top = y;
 			divStyle.left = x;
 			document.body.appendChild(divElem);
-
+			
 			var imgElem = document.createElement("img");
 			imgElem.setAttribute("id", "img-"+id);
 			imgElem.src = imgPath;
@@ -75,7 +73,8 @@
 			var spanStyle = spanElem.style;
 			spanStyle.display = "none";
 			divElem.appendChild(spanElem);
-
+			var thisElem = document.getElementById("listing-"+id);
+			setTimeout(function(){thisElem.parentNode.removeChild(thisElem);},15000);
 			$('img[id|="img"]').hover( function () {
 
 				var elemName = $(this).attr("id");
@@ -129,8 +128,8 @@
 							var region = field.Region;
 
 							var coords = getRegionCoords(region);
-							
-							drawOnMap(PictureHref, Title, PriceDisplay, ListingId, coords[0], coords[1]);
+							//Draw on a roughly accurate point on the map
+							drawOnMap(PictureHref, Title, PriceDisplay, ListingId, coords[0]+(Math.random()*100-50), coords[1]+(Math.random()*100-50));
 							
 							index++;
 							
