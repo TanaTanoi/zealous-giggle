@@ -1,0 +1,226 @@
+<!DOCTYPE>
+<html>
+<head>
+	<title>TradeMe Live</title>
+
+	<style>
+
+		body { margin: 0px;  font-family:Arial, Helvetica, sans-serif; color:#FF3333;
+		 font-size:2.5em}
+		#container { 
+
+			width: 699px; height: 933px; 
+		
+			background:url(nzmapWhite.png);
+		}
+		
+		.listing {-webkit-transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out;
+    -ms-transition: all 1s ease-in-out;
+    transition: all 1s ease-in-out;
+	
+	}
+	.listing img{
+	box-shadow:0px 0px 20px black;
+	}
+
+	</style>
+
+</head>
+<body>
+	<table><tr><td>
+	<canvas id="container" size></canvas>
+	</td>
+	<td>
+	<h1 style = "color:#FF7F00;font-size:7em;">TradeMe Live</h1>
+	</td>
+	</tr>
+	</table>
+	<!-- <img id='template' src="testImg.jpg" style="position:absolute; top:10px; left:10px"> -->
+
+	<!-- <img id='template' src="testImg.jpg"> -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" type="text/javascript"></script>
+
+	<script type="text/javascript">
+
+	$(document).ready(function(){
+
+		var currentID = 0;
+		
+		$("#add").click(function(){
+				//drawOnMap("testImg.jpg", 20, 20);
+		});
+
+		function drawOnMap(imgPath, name, price, id, x, y) {
+
+			var divElem = document.createElement("div");
+			divElem.setAttribute("id", "listing-"+id);
+			divElem.className = "listing";
+			var divStyle = divElem.style;
+			divStyle.position = "absolute";
+			divStyle.top = y;
+			divStyle.left = x;
+			document.body.appendChild(divElem);
+
+			var imgElem = document.createElement("img");
+			imgElem.setAttribute("id", "img-"+id);
+			imgElem.src = imgPath;
+			divElem.appendChild(imgElem);
+
+			var spanElem = document.createElement("span");
+			spanElem.setAttribute("id", "span-"+id);
+
+			spanElem.innerHTML = ">"+name+"</br>"+price;
+			var spanStyle = spanElem.style;
+			spanStyle.display = "none";
+			divElem.appendChild(spanElem);
+
+			$('img[id|="img"]').hover( function () {
+
+				var elemName = $(this).attr("id");
+				var id = elemName.split("-")[1];
+
+				$("#span-"+id).show();
+			});
+
+			$('img[id|="img"]').mouseout( function () {
+
+				var elemName = $(this).attr("id");
+				var id = elemName.split("-")[1];
+
+				$("#span-"+id).hide();
+			});
+		};
+		
+		$("#remove").click(function(){
+				clearImage();
+		});
+
+		function clearImage() {
+			// document.getElementsByClassName('listingImg').remove();
+    		$(".listing").remove();
+		};
+		
+		document.getElementById("container").addEventListener( 'mousemove', function ( event ) {
+
+			var x = event.clientX;
+			var y = event.clientY;
+
+			console.log(x,y);
+		});	
+		
+		document.getElementById("container").addEventListener( 'click', function ( event ) {
+
+			var x = event.clientX;
+			var y = event.clientY;
+			var index = 0;
+			$.getJSON("/TrademeLive/api/getlisting",
+					function(result){
+						setInterval(function(){					
+							
+						
+							var field = result.List[index];
+							var Title = field.Title;
+							var ListingId = field.ListingId;
+							var PictureHref = field.PictureHref;
+							var PriceDisplay = field.PriceDisplay;
+							
+							var region = field.Region;
+
+							var coords = getRegionCoords(region);
+							
+							drawOnMap(PictureHref, Title, PriceDisplay, ListingId, coords[0], coords[1]);
+							
+							index++;
+							
+						},2000);
+						
+						setInterval(function() {
+						
+						
+							
+							$(".listing").remove();
+						
+						},50000);
+					},
+
+					function(){
+						alert("ERROR");
+					});
+
+			// drawOnMap("testImg.jpg", currentID, currentID, currentID, x, y);
+		});
+
+		
+	});
+	
+	function getRegionCoords(region) {
+	
+		if (region == "Northland") {
+			return [417,96];
+		}
+	
+		else if (region == "Auckland") {
+			return [478,210];
+		}
+	
+		else if (region == "Waikato") {
+			return [483,254];
+		}
+	
+		else if (region == "Bay Of Plenty") {
+			return [570,252];
+		}
+	
+		else if (region == "Gisborne") {
+			return [640,239];
+		}
+	
+		else if (region == "Hawke's Bay") {
+			return [573,338];
+		}
+	
+		else if (region == "Taranaki") {
+			return [410,335];
+		}
+	
+		else if (region == "Manawatu / Wanganui") {
+			return [511,340];
+		}
+	
+		else if (region == "Wellington") {
+			return [480,469];
+		}
+	
+		else if (region == "Nelson / Tasman") {
+			return [364,453];
+		}
+	
+		else if (region == "Marlborough") {
+			return [412,500];
+		}
+	
+		else if (region == "West Coast") {
+			return [242,599];
+		}
+	
+		else if (region == "Canterbury") {
+			return [361,599];
+		}
+	
+		else if (region == "Otago") {
+			return [251,759];
+		}
+	
+		else if (region == "Southland") {
+			return [45,803];
+		}
+		
+		else {return [251,759];}
+	}
+	
+	</script>
+
+</body>
+</html>

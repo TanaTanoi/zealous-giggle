@@ -1,0 +1,16 @@
+{
+    "normals": [0, 0, 1], 
+    "name": "Plane.008Geometry", 
+    "uvs": [], 
+    "vertices": [3, 2.7, 0.349999, 3, 3.5, 0.35, 0.1, 2.7, 0.349999, 0.1, 3.5, 0.35], 
+    "metadata": {
+        "version": 3, 
+        "generator": "io_three", 
+        "normals": 1, 
+        "uvs": 0, 
+        "vertices": 4, 
+        "type": "Geometry", 
+        "faces": 1
+    }, 
+    "faces": [33, 0, 1, 3, 2, 0, 0, 0, 0]
+}
