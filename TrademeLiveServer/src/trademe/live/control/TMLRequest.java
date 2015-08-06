@@ -19,7 +19,7 @@ public class TMLRequest {
 
 	
 	private static final String AUTHORISATION_STR =
-			new String(" OAuth oauth_consumer_key=\"140AF592AB900713057339CE9CEA8260\", oauth_signature_method=\"PLAINTEXT\", oauth_signature=\"F5BB5EFFBF756109C767D92626967D19&\"");
+			new String(" OAuth oauth_consumer_key=\"<consumer key>\", oauth_signature_method=\"PLAINTEXT\", oauth_signature=\"<signature>\"");
 	private static final String LATEST_LISTINGS_STR =
 			"https://api.trademe.co.nz/v1/Listings/Latest.json";
 	private  HttpURLConnection connection = null;
